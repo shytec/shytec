@@ -1,0 +1,5 @@
+- 👋 Hi, I’am a human.
+- 👀 I’m interested in coding (simple)
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me here at Github.
